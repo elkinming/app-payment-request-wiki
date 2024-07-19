@@ -10,3 +10,4 @@ En este repositorio encontraras la documentación de la aplicación **App Paymen
 * **1.0.16:** Modulo de administración de usuarios
 * **1.0.17:** Cambios para consultar providers dependiendo de la compañia seleccionada
 * **1.0.18:** Cambios para soportar cambios de estructura de datos en departamentos categorias subcategorias y reglas de aprobación
+* **2.1.0:** Formulario de reglas de aprobación
