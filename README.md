@@ -13,3 +13,4 @@ En este repositorio encontraras la documentación de la aplicación **App Paymen
 * **2.1.0:** Formulario de reglas de aprobación
 * **2.2.0:** Administración de Subcategorías
 * **2.3.0:** Formulario para información de pago "Paid"
+* **2.4.0:** Administración de Categorías
