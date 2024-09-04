@@ -15,3 +15,4 @@ En este repositorio encontraras la documentación de la aplicación **App Paymen
 * **2.3.0:** Formulario para información de pago "Paid"
 * **2.4.0:** Administración de Categorías
 * **3.0.0:** Administración de Departamentos (Nuevo endpoint de departamentos)
+* **3.1.0:** Administración Relacion Departamentos-Categorías 
